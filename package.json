@@ -1,0 +1,19 @@
+{
+  "name": "brackets-yaml-linter",
+  "title": "YAML Linter",
+  "version": "1.0.0",
+  "description": "Provides linting functionality for YAML files",
+  "homepage": "https://github.com/slai/brackets-yaml-linter",
+  "author": "Samuel Lai <sam@edgylogic.com>",
+  "license": "MIT",
+  "categories": "editing",
+  "keywords": [
+    "yaml",
+    "lint",
+    "coding",
+    "editing"
+  ],
+  "engines": {
+    "brackets": ">=0.38.0"
+  }
+}
